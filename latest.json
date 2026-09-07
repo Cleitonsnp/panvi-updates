@@ -1,0 +1,9 @@
+{
+  "versionCode": 75,
+  "versionName": "0.1.75-alpha",
+  "apkUrl": "https://cleitonsnp.github.io/panvi-updates/Panvi-75.apk",
+  "sha256": "f6d91d3b522020d36240a09b89e3309a00f195c11dc17f7c0c02b1213fe54d21",
+  "notes": "Correções de atualização, registros, calendário, troca de conta e lembretes.",
+  "minimumRequiredVersionCode": 34,
+  "forceUpdate": false
+}
