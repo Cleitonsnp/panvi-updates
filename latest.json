@@ -1,9 +1,9 @@
 {
-  "versionCode": 82,
-  "versionName": "0.1.82-alpha",
-  "apkUrl": "https://cleitonsnp.github.io/panvi-updates/Panvi-82.apk",
-  "sha256": "13583278522abe4c561936f8ba214982582ee60b39d37558933dfedf1e8ec075",
-  "notes": "Novo acompanhamento de corrimento, resumo em PDF para consulta e atalhos personalizáveis na tela inicial.",
+  "versionCode": 87,
+  "versionName": "0.1.87-alpha",
+  "apkUrl": "https://cleitonsnp.github.io/panvi-updates/Panvi-87.apk",
+  "sha256": "205d13f28e4299f7c7a00cf85b4331b6098102bb1830ca45c6330c93bd32fa66",
+  "notes": "Nova identidade Panvi: panda vetorial, telas redesenhadas, gráficos interativos e movimentos próprios.",
   "minimumRequiredVersionCode": 34,
   "forceUpdate": false
 }
